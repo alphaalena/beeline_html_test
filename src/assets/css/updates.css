@@ -1,0 +1,26 @@
+.updates {
+  padding: 129px 372px;
+  display: flex;
+  flex-direction: column;
+  background-color: #D8D8D8;
+}
+
+.updates-title {
+  font-family: 'Abel', serif;
+  font-size: 35px;
+  line-height: 47px;
+  text-align: center;
+  letter-spacing: 4.375px;
+  margin-bottom: 30px;
+}
+
+.updates-form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.updates-form .input {
+  flex: 1;
+  max-width: 412px;
+}

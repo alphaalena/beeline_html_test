@@ -1,0 +1,13 @@
+.input {
+  padding: 15px 20px;
+  height: 60px;
+  font-family: 'Abel', serif;
+  font-size: 26px;
+  line-height: 33px;
+}
+
+.input::placeholder {
+  font-family: 'Abel', serif;
+  font-size: 26px;
+  color: #787878;
+}

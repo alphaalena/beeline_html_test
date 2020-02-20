@@ -11,7 +11,7 @@
   height: 60px;
 }
 
-.navigation .btn-wrapper .btn + .btn {
+.header-navigation .btn-wrapper .btn + .btn {
   margin-left: 40px;
 }
 
