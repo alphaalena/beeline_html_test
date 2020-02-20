@@ -1,0 +1,17 @@
+.banner {
+  padding: 130px 118px;
+  background-color: #D8D8D8;
+  display: flex;
+  flex-direction: column;
+}
+.banner-header {
+  line-height: 76px;
+  font-size: 60px;
+  font-family: 'Abel', serif;
+}
+.banner-sub-title {
+  font-size: 36px;
+  line-height: 46px;
+  font-family: 'Abel', serif;
+}
+

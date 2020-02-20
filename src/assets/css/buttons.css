@@ -1,0 +1,24 @@
+.btn {
+  width: 154px;
+  height: 31px;
+  background: #D8D8D8;
+  border: none;
+  font-family: 'Abel', serif;
+}
+
+.btn.large {
+  width: 283px;
+  height: 60px;
+}
+
+.navigation .btn-wrapper .btn + .btn {
+  margin-left: 40px;
+}
+
+.banner .btn-wrapper .btn + .btn {
+  margin-left: 25px;
+}
+
+.banner .btn-wrapper {
+  margin-top: 30px;
+}
