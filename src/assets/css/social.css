@@ -1,0 +1,10 @@
+.social-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.social-wrapper .icon:not(:last-child) {
+  margin-right: 70px;
+}

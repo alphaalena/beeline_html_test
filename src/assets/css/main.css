@@ -6,3 +6,8 @@ main {
   display: flex;
   flex-direction: column;
 }
+
+.divider {
+  height: 1px;
+  width: auto;
+}
